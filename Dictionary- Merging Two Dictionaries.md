@@ -1,5 +1,6 @@
 ## Dictionary Operations in Python: Merging Two Dictionaries
-
+## NAME: BOYALAPALLI HARSHALA REDDY
+## REGISTER NUMBER: 212224040050
 ## 🎯 Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
 
@@ -11,8 +12,17 @@ To write a Python program that merges **two dictionaries** and combines their ke
 
 ## 🧾 Program
 
-Add code here
+```
+a=eval(input())
+b=eval(input())
+c=a.copy()
+c.update(b)
+print(c)
+```
 
 ## Output
+![image](https://github.com/user-attachments/assets/c483c822-bd69-459c-8b00-d11bf98d23f8)
+![image](https://github.com/user-attachments/assets/9a098ad1-20db-4160-bf14-ab8da2aeec10)
 
 ## Result
+Thus the program executed successfully.
